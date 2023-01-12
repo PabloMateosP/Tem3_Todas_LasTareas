@@ -1,6 +1,6 @@
-package polimorfismo;
+package polimorfismo.Practica;
 
-public class SubclaseA extends Superclase{
+public class SubclaseA extends Superclase {
 
     @Override
     public void metodo() {

@@ -1,4 +1,4 @@
-package polimorfismo;
+package polimorfismo.Practica;
 
 public class SubclaseB extends Superclase {
 
